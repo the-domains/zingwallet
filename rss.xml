@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[ZingWallet]]></title>
+        <description><![CDATA[ZingWallet]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 29 Jun 2016 01:27:32 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Zing Wallet - put back the zing in your wallet]]></title>
+            <description><![CDATA[<article><h1>Zing Wallet - put back the zing in your wallet</h1><p>With Zing Wallet you can send and receive money world wide. Send dollars, euros, and pesos instantly to your friends or family. Start using Zing Wallet today and make your money move faster. Don't just send it, Zing it.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/394981f011b747fb710a71614005840d/noop.png?input=http%3A%2F%2Fwww.zing.it%2Fwp-content%2Fuploads%2F2014%2F10%2Flanding_people.png"></article>]]></description>
+            <link>http://zing.it/</link>
+            <guid isPermaLink="false">ed794646-3590-4757-8a66-a7dd138b2183</guid>
+            <pubDate>Wed, 29 Jun 2016 01:27:09 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
